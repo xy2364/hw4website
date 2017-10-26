@@ -18,9 +18,5 @@ navbar:
       href: https://www.linkedin.com/in/xin-yin-460719116/
 output:
   html_document:
-    css: style.css
     theme: paper
     highlight: textmate
-    include:
-        after_body: footer.html
-exclude: ["*.csv", "*.bib","*.sh","*.R"] 
